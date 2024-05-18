@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, SQL, Python**
 
-- 📫 How to reach me **kavyat7605@gmail.com**
+- 📫 How to reach me **kavyat.4141@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
